@@ -63,5 +63,3 @@ Sigue estos pasos para configurar y ejecutar el proyecto:
 
     El script descargará el video en formato MP4 y extraerá el audio en formato MP3, guardando ambos archivos en la carpeta `Descargas`.
 
-## Estructura del Proyecto
-
